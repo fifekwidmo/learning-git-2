@@ -1,4 +1,5 @@
 autoprefixer-cli -o main.prefixed.css main.css
-autoprefixer-cli -h
+autoprefixer-cli -h (for help)
 
 Please see .htmlvalidate.json file for HTML-Validate tool
+html-validate FILENAME..
